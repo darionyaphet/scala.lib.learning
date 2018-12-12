@@ -1,0 +1,8 @@
+rootProject.name = 'scala.learning'
+include 'scaldi'
+include 'scalameta'
+include 'akka'
+include 'cats'
+include 'normal'
+include 'slick'
+
